@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HenCoder 绘制 3</string>
+    <string name="title_draw_text">drawText()</string>
+    <string name="title_static_layout">StaticLayout</string>
+    <string name="title_set_text_size">setTextSize()</string>
+    <string name="title_set_typeface">setTypeface()</string>
+    <string name="title_set_fake_bold_text">setFakeBoldText()</string>
+    <string name="title_set_strike_thru_text">setStrikeThruText()</string>
+    <string name="title_set_underline_text">setUnderlineText()</string>
+    <string name="title_set_text_skew_x">setTextSkewX()</string>
+    <string name="title_set_text_scale_x">setTextScaleX()</string>
+    <string name="title_set_text_align">setTextAlign()</string>
+    <string name="title_get_font_spacing">getFontSpacing()</string>
+    <string name="title_measure_text">measureText()</string>
+    <string name="title_get_text_bounds">getTextBounds()</string>
+    <string name="title_get_font_metrics">getFontMetrics()</string>
+    <string name="title_fill_path">setFillPath()</string>
+    <string name="title_text_path">setTextPath()</string>
+</resources>
